@@ -8,6 +8,8 @@ Reliability: Guarantees software functions as expected, especially in critical f
 Efficiency: Enhances development workflows while maintaining high standards.
 Scalability & Flexibility: Supports system growth without performance loss.
 Security: Implements measures like authentication, authorization, and encryption to protect user data.
+
+
 2. Key Milestones in Software Engineering
 
 Mastering Complexity: Developing methods to manage large, intricate systems.
